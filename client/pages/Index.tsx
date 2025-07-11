@@ -34,7 +34,7 @@ export default function Index() {
 
           {/* Subtitle */}
           <p className="text-xl md:text-2xl text-gray-600 max-w-2xl mx-auto leading-relaxed">
-            Welcome to something beautiful.
+            THIS IS A MAIN UPDATE. Welcome to something beautiful.
             <span className="block mt-2 text-lg text-gray-500">
               The beginning of your next great adventure.
             </span>
