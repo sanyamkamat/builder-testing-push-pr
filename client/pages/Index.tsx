@@ -29,7 +29,7 @@ export default function Index() {
 
           {/* Main title */}
           <h1 className="text-6xl md:text-7xl lg:text-8xl font-bold bg-gradient-to-r from-indigo-600 via-purple-600 to-cyan-600 bg-clip-text text-transparent mb-6 tracking-tight">
-            HELLO STEVE
+            Bye Steve
           </h1>
 
           {/* Subtitle */}
